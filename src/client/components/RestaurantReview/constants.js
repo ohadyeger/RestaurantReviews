@@ -1,0 +1,10 @@
+const RestaurantReviewActionsConstants = {
+  REVIEW_REQ: "REVIEW_REQ",
+  REVIEW_REQ_SUCC: "REVIEW_REQ_SUCC",
+  REVIEW_REQ_FAIL: "REVIEW_REQ_FAIL",
+  REVIEW_STAR_CHNGE: "REVIEW_STAR_CHNGE",
+  REVIEW_PICT_SET: "REVIEW_PICT_SET",
+  REVIEW_PICT_ADD: "REVIEW_PICT_ADD"
+};
+
+export { RestaurantReviewActionsConstants };
